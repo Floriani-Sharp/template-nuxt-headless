@@ -15,7 +15,7 @@ This Git project serves as a template for Nuxt 3 in conjunction with Vue.js. It 
 1. clone the repository:
 
    ```bash
-   git clone https://gitlab.com/FlorianiSharp/template-nuxt.git
+   https://github.com/Floriani-Sharp/template-nuxt.git
    ```
 
 2. change to the project directory:
